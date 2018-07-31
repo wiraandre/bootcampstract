@@ -3,4 +3,9 @@
   color: #fff;
   background-size: cover;
   min-height: 300px;
+  text-align: center;
+}
+
+.Napigasi {
+  position: fixed;
 }
