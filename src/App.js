@@ -7,6 +7,8 @@ import Jbtron from './component/Tronjumbo';
 import Cards1 from './component/Card1';
 import Card2 from './component/Card2';
 import Mondokbody from './component/Mondokbody';
+import Card3 from './component/Card3';
+import Sponsor from './component/Sponsor';
 
 class App extends Component {
   render() {
@@ -24,6 +26,8 @@ class App extends Component {
         </h2>
         <Card2 />
         <Mondokbody />
+        <Card3 />
+        <Sponsor />
       </div>
     );
   }

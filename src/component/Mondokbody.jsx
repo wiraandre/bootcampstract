@@ -5,7 +5,9 @@ const Mondokody = props => {
     <div class="container center border">
       <div class="row ">
         <div class="col-md-6 bg-success text-light">
-          <h4 class="py-4">kegiatan</h4>
+          <h4 class="py-4" align="center">
+            kegiatan
+          </h4>
           <br />
           <p>belajar</p>
           <br />
@@ -18,6 +20,8 @@ const Mondokody = props => {
           <p>belajar</p>
         </div>
       </div>
+      <br />
+      <hr />
     </div>
   );
 };
