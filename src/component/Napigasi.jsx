@@ -31,7 +31,7 @@ export default class Napigasi extends React.Component {
   render() {
     return (
       <div>
-        <Navbar className="Napigasi" color="light" light expand="md">
+        <Navbar className="Napigasi" color="light" light expand="md" fixed-top>
           <a className="navbar-brand" href="#">
             <img
               src="http://i63.tinypic.com/oid9xu.png"

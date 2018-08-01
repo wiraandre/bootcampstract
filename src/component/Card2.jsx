@@ -40,6 +40,8 @@ const Card2 = props => {
         <Button outline color="success">
           lihat seluruh santren kilat
         </Button>{' '}
+        <br />
+        <hr />
       </div>
     </div>
   );
